@@ -25,4 +25,4 @@ Run git push in your repositories automatically!
 
         -   XML
 
-            Refer[git auto push](./git auto puash.xml)
+            Refer[git auto push](./auto git push.xml)
